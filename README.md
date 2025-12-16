@@ -1,6 +1,6 @@
 # Interactive Novel Converter
 
-Convert a Word document (`.docx`) into a playable, interactive HTML novel with save/load functionality. It provides both English and Chinese support.
+Convert a Word document (`.docx`) into a playable, interactive HTML novel with save/load functionality. It provides both English and Chinese support. This is what I used to create my 100K-word interactive novel in Simplified Chinese.
 
 ## What It Does
 
